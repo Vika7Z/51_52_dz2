@@ -9,3 +9,6 @@ print('new task ))')
 
 if __name__ == '__main__':
     print_hi('PyCharm')
+
+print('after name_main')
+print('2024_11_01')
